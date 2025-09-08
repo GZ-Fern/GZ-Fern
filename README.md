@@ -8,5 +8,3 @@ I'm a software engineer with a love for turning complexity into purposeful syste
 I mix structure with creativity, designing databases, building AI projects, and crafting immersive game systems with my own art in it. 
 I love working alongside others just as much as diving into solo passion projects. 
 Curiosity keeps me moving and I believe the best systems, like a great life, are built on purpose, resilience, patience, and understanding.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fernanda-g-050932264/)!
