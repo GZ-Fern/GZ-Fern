@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/d1282e08-b240-47fd-b68c-71f4c1d262fa" alt="image" width="50" />
 </h1>
 
-I'm a software engineer with a love for turning complexity into purposeful systems.
+I'm a Computer Science student with a double concentration in Software Engineering and Data Science, and I have a love for turning complexity into purposeful systems.
 I mix structure with creativity, designing databases, building AI projects, and crafting immersive game systems with my own art in it. 
 I love working alongside others just as much as diving into solo passion projects. 
 Curiosity keeps me moving and I believe the best systems, like a great life, are built on purpose, resilience, patience, and understanding.
